@@ -6,7 +6,7 @@ export const Home = () => {
         <h1 className='text-4xl md:text-[54px] md:leading-[1.2] tracking-[-0.04em] font-normal md:font-light w-full md:max-w-[540px] '>
           We’re building the best culture to grow software companies
         </h1>
-        <button className='text-lg font-medium md:text-xl md:font-bold max-w-fit text-text-buttonText font-manrope rounded-sm hover:opacity-80 py-3 md:py-[1.125rem] px-3 md:px-[1.5rem] bg-background-buttonBg'>
+        <button className='text-lg font-medium md:text-xl md:font-bold max-w-fit text-text-buttonText font-manrope rounded-sm hover:opacity-80 py-3 md:py-1 px-3 md:px-[1.5rem] bg-background-buttonBg'>
           Let's Chat
         </button>
         <p className='text-[#161616] text-lg md:text-xl '>
